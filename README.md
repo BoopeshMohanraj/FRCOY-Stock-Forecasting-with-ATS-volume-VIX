@@ -100,6 +100,18 @@ The model achieved a real-time accuracy of 64%, demonstrating its ability to cap
 
 ![image](https://github.com/user-attachments/assets/a93dfa79-eb80-4422-adac-691e3d1833ac)
 
+# Observations from Forecasting Graph
+
+1. Historical price trends show volatility peaks in early 2021, followed by a period of relative stabilization.
+
+2. The forecasted prices (red line) closely follow historical trends initially, validating the model's reliability in short-term predictions.
+
+3. The confidence interval (shaded region) widens significantly in later years, reflecting increased uncertainty in long-term predictions.
+
+4. Stock price movement remains relatively stable in the projected period, with minor fluctuations indicating expected market trends.
+
+5. Potential breakouts are visible when forecasted prices diverge slightly from historical trends, which may signal institutional movement or macroeconomic influences.
+
 # Value & Business Impact
 
 1. This project demonstrates how ATS, VIX, and machine learning can be leveraged for financial decision-making:
